@@ -1,1 +1,9 @@
 # APLAB-Nurul-Assignment4
+1. https://leetcode.com/problems/binary-tree-level-order-traversal/description/
+2. https://leetcode.com/problems/binary-tree-inorder-traversal/description/
+3. https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/description/
+4. https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/description/
+5. https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/
+6. https://leetcode.com/problems/populating-next-right-pointers-in-each-node/description/
+7. https://leetcode.com/problems/path-sum-ii/description/
+8. https://leetcode.com/problems/binary-tree-level-order-traversal-ii/description/
